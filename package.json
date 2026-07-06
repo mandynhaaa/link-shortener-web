@@ -11,12 +11,23 @@
   },
   "dependencies": {
     "@hookform/resolvers": "^5.4.0",
+    "@phosphor-icons/react": "^2.1.10",
+    "@radix-ui/react-scroll-area": "^1.2.13",
+    "@tanstack/react-form": "^1.33.0",
     "@tanstack/react-query": "^5.101.0",
+    "axios": "^1.18.1",
+    "immer": "^11.1.11",
+    "lucide-react": "^1.23.0",
     "react": "^19.2.6",
     "react-dom": "^19.2.6",
     "react-hook-form": "^7.78.0",
     "react-router-dom": "^7.17.0",
-    "zod": "^4.4.3"
+    "react-toastify": "^11.1.0",
+    "tailwind-merge": "^3.6.0",
+    "tailwind-variants": "^3.2.2",
+    "wouter": "^3.10.0",
+    "zod": "^4.4.3",
+    "zustand": "^5.0.14"
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
